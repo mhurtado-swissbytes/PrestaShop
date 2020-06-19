@@ -1,0 +1,4 @@
+[submodule "prestashop-sw-addons"]
+	path = prestashop-sw-addons
+	url = https://bitbucket.org/Swissbytes/prestashop-sw-addons.git
+	branch = master
